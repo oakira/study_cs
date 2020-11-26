@@ -1,5 +1,12 @@
 .vscode-janus-debug
+*.out
+*.out.dSYM
+*.dSYM
+*.exe
 .DS_Store
+.vs
 .vscode
-bin/
-obj/
+Debug
+*.sln
+*.vcxproj
+*.vcxproj.*
